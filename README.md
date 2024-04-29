@@ -1,2 +1,2 @@
 # uhdoramustuff
- what the hell
+ This is simply a repository to test retrieving update data
